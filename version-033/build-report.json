@@ -1,0 +1,12 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "html_pages": 2016,
+  "category_pages": 12,
+  "category_card_coverage": 2000,
+  "video_source_count_from_original_js": 20,
+  "baidu_missing": [],
+  "player_missing": [],
+  "logo": "高清剧集大全",
+  "cover_rule": "X=((N-1)%150)+1; referenced as top-level X.jpg"
+}
